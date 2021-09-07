@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Fbw-48/oxford-thesergioliveira#readme",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
